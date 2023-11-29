@@ -1,0 +1,5 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2023/11/28 - 10:12:31.456	[34minfo[0m	D:/xgqfolder/xgq_weimiao/gin-admin/server/initialize/gorm.go:63	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2023/11/28 - 10:12:31.497	[34minfo[0m	D:/xgqfolder/xgq_weimiao/gin-admin/server/initialize/redis.go:23	redis connect ping response:	{"pong": "PONG"}
+[github.com/flipped-aurora/gin-vue-admin/server]2023/11/28 - 10:12:31.507	[34minfo[0m	D:/xgqfolder/xgq_weimiao/gin-admin/server/initialize/router.go:40	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2023/11/28 - 10:12:31.535	[34minfo[0m	D:/xgqfolder/xgq_weimiao/gin-admin/server/initialize/router.go:79	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2023/11/28 - 10:12:31.551	[34minfo[0m	D:/xgqfolder/xgq_weimiao/gin-admin/server/core/server.go:36	server run success on 	{"address": ":8888"}
